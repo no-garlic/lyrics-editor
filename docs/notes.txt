@@ -1,0 +1,7 @@
+database:
+
+user: mike
+pass: mike
+
+database: lyrics
+
